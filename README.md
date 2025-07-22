@@ -2,7 +2,7 @@
 
 this collection of mine mini-project using Python.
 
-## Project:
+## 📂 Project:
 - `calculator.py` → A simple calculator
 - `guess_number.py` → guess number x CPU 
-- ...
+- ... ect
